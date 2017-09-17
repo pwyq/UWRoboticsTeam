@@ -1,6 +1,13 @@
+/**
+ * File              : multiple.cpp
+ * Author            : Yanqing Wu <meet.yanqing.wu@gmail.com>
+ * Date              : 16.09.2017
+ * Last Modified Date: 16.09.2017
+ * Last Modified By  : Yanqing Wu <meet.yanqing.wu@gmail.com>
+ */
 //Written by  Kyle Hounslow 2013
 
-// modified by: Ahmad Kaifi, Hassan Althobaiti, Yaning Wu
+// modified by: Ahmad Kaifi, Hassan Althobaiti, Yanqing Wu
 
 //Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software")
 //, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
